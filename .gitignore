@@ -1,0 +1,12 @@
+node_modules/
+auth/
+logs/
+.env
+*.log
+*.db
+*.db-wal
+*.db-shm
+db-*
+kd-*
+phantom-profile-*
+.DS_Store
